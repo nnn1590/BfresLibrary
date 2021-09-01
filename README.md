@@ -19,4 +19,5 @@ A reworked version of NintenTools.Bfres with Wii U and Switch support and many v
 [Syroot/Ray Koopa for the original library used.](https://gitlab.com/Syroot/NintenTools.Bfres/tree/master/src/Syroot.NintenTools.Bfres)
 
 ## LICENSE
-https://gitlab.com/Syroot/NintenTools.Bfres/-/blob/master/LICENSE
+- BfresLibrary: [MIT License](https://github.com/KillzXGaming/BfresLibrary/blob/master/LICENSE.txt)
+- Original Syroot.NintenTools.Bfres: [MIT License](https://gitlab.com/Syroot/NintenTools.Bfres/-/blob/master/LICENSE)
