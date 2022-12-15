@@ -1,0 +1,3 @@
+[submodule "Libraries/Syroot.BinaryData"]
+	path = Libraries/Syroot.BinaryData
+	url = https://gitlab.com/Syroot/BinaryData.git
