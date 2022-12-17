@@ -1,3 +1,6 @@
 [submodule "Libraries/Syroot.BinaryData"]
 	path = Libraries/Syroot.BinaryData
 	url = https://gitlab.com/Syroot/BinaryData.git
+[submodule "Libraries/LegacySwitchLibraries"]
+	path = Libraries/LegacySwitchLibraries
+	url = https://github.com/nnn1590/LegacySwitchLibraries.git

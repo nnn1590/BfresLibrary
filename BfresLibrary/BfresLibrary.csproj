@@ -26,10 +26,6 @@
   <ItemGroup>
     <!-- Syroot.BinaryData v2.0.1 does not exist in NuGet -->
     <ProjectReference Include="../Libraries/Syroot.BinaryData/src/Syroot.BinaryData/Syroot.BinaryData.csproj" />
-  </ItemGroup>
-  <ItemGroup>
-    <Reference Include="Syroot.NintenTools.NSW.Bntx">
-      <HintPath>..\Libraries\Syroot.NintenTools.NSW.Bntx.dll</HintPath>
-    </Reference>
+    <ProjectReference Include="../Libraries/LegacySwitchLibraries/Syroot.NintenTools.Bntx/Syroot.NintenTools.NSW.Bntx.csproj" />
   </ItemGroup>
 </Project>
